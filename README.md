@@ -23,5 +23,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Environment variables
 
 Create `.env` file at the root of the project and add these varaibles : 
-- NEXT_PUBLIC_TWITCH_CLIENT_ID
-- NEXT_PUBLIC_TWITCH_BEARER_TOKEN
+- NEXT_PUBLIC_TWITCH_CLIENT_ID=your-twitch-client-id-here
+- NEXT_PUBLIC_TWITCH_BEARER_TOKEN=your-twitch-bearer-token-here
